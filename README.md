@@ -1,3 +1,7 @@
+# ATENÇÃO!
+## Este repositório não está mais em uso e foi substituído pelo [novo repositório](https://github.com/gustacamara/py-ui). Ele é apenas mantido para não quebrar links antigos para o projeto.
+
+
 ## Py - UI
 
 O nome do projeto é uma brincadeira com a linguagem de programação Python, que será utilizada na execução, user interface (UI) e a onomatopeia conhecida de uma locomotiva a vapor. O Py - UI será um aplicativo de controle de maquetes de ferreomodelismo que está sendo desenvolvido para a disciplina de Experiência Criativa, do terceiro período do curso de Ciência da Computação. Ele envolve a criação de uma interface que se comunicará via wifi com placas eletrônicas, sensores e atuadores na maquete. 
